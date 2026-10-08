@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to execute commands or scripts instantly, streamlining workflows and boosting productivity for developers and tech professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
